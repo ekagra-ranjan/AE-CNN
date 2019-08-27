@@ -9,6 +9,9 @@ Paper Link: [Click Here](https://drive.google.com/open?id=1i2jl5M0ddr-STAma0a2Bs
 ![Screenshot 1](https://github.com/ekagra-ranjan/AE-CNN/blob/master/ae-cnn-final.png "Net")
 
 
+## Results
+
+![Table](https://github.com/ekagra-ranjan/AE-CNN/blob/master/AE-CNN-comparison-table.png)
 
 ## Acknowledgement: 
 We would like to thank [zoozog](https://github.com/zoogzog/) and [arnoweng](https://github.com/arnoweng/) for open-sourcing their repos which served as the starting point for our work. Their repos can be found [here](https://github.com/zoogzog/chexnet) and [here](https://github.com/arnoweng/CheXNet) respectively. 
