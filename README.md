@@ -12,3 +12,14 @@ Paper Link: [Click Here](https://drive.google.com/open?id=1i2jl5M0ddr-STAma0a2Bs
 
 ## Acknowledgement: 
 We would like to thank [zoozog](https://github.com/zoogzog/) and [arnoweng](https://github.com/arnoweng/) for open-sourcing their repos which served as the starting point for our work. Their repos can be found [here](https://github.com/zoogzog/chexnet) and [here](https://github.com/arnoweng/CheXNet) respectively. 
+
+## Cite
+```
+@inproceedings{ranjan2018jointly,
+  title={Jointly Learning Convolutional Representations to Compress Radiological Images and Classify Thoracic Diseases in the Compressed Domain},
+  author={Ranjan, Ekagra and Paul, Soumava and Kapoor, Siddharth and Kar, Aupendu and Sethuraman, Ramanathan and Sheet, Debdoot},
+  booktitle={Proceedings of the Eleventh Indian Conference on Computer Vision, Graphics and Image Processing},
+  year={2018},
+  organization={ACM}
+}
+```
