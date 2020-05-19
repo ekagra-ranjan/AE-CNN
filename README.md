@@ -1,6 +1,6 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/jointly-learning-convolutional/pneumonia-detection-on-chestx-ray14)](https://paperswithcode.com/sota/pneumonia-detection-on-chestx-ray14?p=jointly-learning-convolutional)
 
-# AE-CNN
+## Joint Learning Mechanism to Compress and Classify Radiological Images
 
 [![Conference](http://img.shields.io/badge/ICVGIP-2018-4b44ce.svg)](https://cvit.iiit.ac.in/icvgip18/) [![Paper](http://img.shields.io/badge/paper-dl.acm.10.1145/3293353.3293408-B31B1B.svg)](https://dl.acm.org/doi/abs/10.1145/3293353.3293408)
 
@@ -8,7 +8,7 @@ Source code for [ICVGIP 2018](https://cvit.iiit.ac.in/icvgip18/) paper: [**Joint
 
 
 
-## Network Architecture
+## AE-CNN Network Architecture
 ![Screenshot 1](https://github.com/ekagra-ranjan/AE-CNN/blob/master/ae-cnn-final.png "Net")
 
 
@@ -19,7 +19,8 @@ Source code for [ICVGIP 2018](https://cvit.iiit.ac.in/icvgip18/) paper: [**Joint
 ## Acknowledgement: 
 We would like to thank [zoozog](https://github.com/zoogzog/) and [arnoweng](https://github.com/arnoweng/) for open-sourcing their repos which served as the starting point for our work. Their repos can be found [here](https://github.com/zoogzog/chexnet) and [here](https://github.com/arnoweng/CheXNet) respectively. 
 
-## Cite
+## Citation
+Please cite the following paper if you found it useful in your work:
 ```
 @inproceedings{10.1145/3293353.3293408,
 author = {Ranjan, Ekagra and Paul, Soumava and Kapoor, Siddharth and Kar, Aupendu and Sethuraman, Ramanathan and Sheet, Debdoot},
