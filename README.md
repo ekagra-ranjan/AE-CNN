@@ -8,9 +8,10 @@ Source code for [ICVGIP 2018](https://cvit.iiit.ac.in/icvgip18/) paper: [**Joint
 
 
 
-## AE-CNN Network Architecture
-![Screenshot 1](https://github.com/ekagra-ranjan/AE-CNN/blob/master/ae-cnn-final.png "Net")
+![](https://github.com/ekagra-ranjan/AE-CNN/blob/master/ae-cnn-final.png)
 
+
+**Overview of AE-CNN:** *Our proposed framework consists of three main blocks namely encoder, decoder, and classifier. The figure shows the autoencoder based convolutional neural network (AE-CNN) model for disease classification. Here, autoencoder reduces the spatial dimension of the imput image of size 1024 × 1024. The encoder produces a latent code tensor of size 224 × 224 and decoder reconstructs back the image. This latent code tensor is passed through a CNN classifier for classifying the chest x-rays. The final loss is the weighted sum of the resconstruction loss by decoder and classification loss by the CNN classifier.*
 
 ## Results
 
