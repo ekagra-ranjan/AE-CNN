@@ -17,8 +17,6 @@ Source code for [ICVGIP 2018](https://cvit.iiit.ac.in/icvgip18/) paper: [**Joint
 
 ![Table](https://github.com/ekagra-ranjan/AE-CNN/blob/master/AE-CNN-comparison-table.png)
 
-## Acknowledgement: 
-We would like to thank [zoozog](https://github.com/zoogzog/) and [arnoweng](https://github.com/arnoweng/) for open-sourcing their repos which served as the starting point for our work. Their repos can be found [here](https://github.com/zoogzog/chexnet) and [here](https://github.com/arnoweng/CheXNet) respectively. 
 
 ## Citation
 Please cite the following paper if you found it useful in your work:
@@ -40,3 +38,7 @@ location = {Hyderabad, India},
 series = {ICVGIP 2018}
 }
 ```
+
+
+## Acknowledgement: 
+We would like to thank [zoozog](https://github.com/zoogzog/) and [arnoweng](https://github.com/arnoweng/) for open-sourcing their repos which served as the starting point for our work. Their repos can be found [here](https://github.com/zoogzog/chexnet) and [here](https://github.com/arnoweng/CheXNet) respectively. 
