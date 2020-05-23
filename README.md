@@ -6,7 +6,9 @@
 
 Source code for [ICVGIP 2018](https://cvit.iiit.ac.in/icvgip18/) paper: [**Jointly Learning Convolutional Representations to Compress Radiological Images and Classify Thoracic Diseases in the Compressed Domain**](https://dl.acm.org/doi/abs/10.1145/3293353.3293408)
 
-
+<br>
+<br>
+<br>
 
 ![](https://github.com/ekagra-ranjan/AE-CNN/blob/master/ae-cnn-final.png)
 
