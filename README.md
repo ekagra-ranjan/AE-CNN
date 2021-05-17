@@ -1,8 +1,8 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/jointly-learning-convolutional/pneumonia-detection-on-chestx-ray14)](https://paperswithcode.com/sota/pneumonia-detection-on-chestx-ray14?p=jointly-learning-convolutional)
+
 
 ## Joint Learning Mechanism to Compress and Classify Radiological Images
 
-[![Conference](http://img.shields.io/badge/ICVGIP-2018-4b44ce.svg)](https://cvit.iiit.ac.in/icvgip18/) [![Paper](http://img.shields.io/badge/paper-dl.acm.10.1145/3293353.3293408-B31B1B.svg)](https://dl.acm.org/doi/abs/10.1145/3293353.3293408) [![Slides](http://img.shields.io/badge/slides-pdf-orange.svg)](https://github.com/ekagra-ranjan/AE-CNN/raw/master/Paper55.pptx)
+[![Conference](http://img.shields.io/badge/ICVGIP-2018-4b44ce.svg)](https://cvit.iiit.ac.in/icvgip18/) [![Paper](http://img.shields.io/badge/paper-dl.acm.10.1145/3293353.3293408-B31B1B.svg)](https://dl.acm.org/doi/abs/10.1145/3293353.3293408) [![Slides](http://img.shields.io/badge/slides-pdf-orange.svg)](https://github.com/ekagra-ranjan/AE-CNN/raw/master/Paper55.pptx) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/jointly-learning-convolutional/pneumonia-detection-on-chestx-ray14)](https://paperswithcode.com/sota/pneumonia-detection-on-chestx-ray14?p=jointly-learning-convolutional)
 
 Source code for [ICVGIP 2018](https://cvit.iiit.ac.in/icvgip18/) paper: [**Jointly Learning Convolutional Representations to Compress Radiological Images and Classify Thoracic Diseases in the Compressed Domain**](https://dl.acm.org/doi/abs/10.1145/3293353.3293408)
 
